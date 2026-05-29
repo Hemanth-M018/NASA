@@ -1,0 +1,30 @@
+{
+  "new york": [
+    {
+      "display_name": "New York, United States",
+      "lat": 40.7127281,
+      "lon": -74.0060152,
+      "type": "administrative"
+    },
+    {
+      "display_name": "New York, United States",
+      "lat": 43.1561681,
+      "lon": -75.8449946,
+      "type": "administrative"
+    }
+  ],
+  "eiffel tower": [
+    {
+      "display_name": "Tour Eiffel, 5, Avenue Anatole France, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",
+      "lat": 48.8582599,
+      "lon": 2.2945006,
+      "type": "tower"
+    },
+    {
+      "display_name": "Eiffel Tower, Improvement District No. 9, Alberta, Canada",
+      "lat": 51.3336,
+      "lon": -116.235,
+      "type": "peak"
+    }
+  ]
+}
